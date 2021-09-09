@@ -2,6 +2,7 @@
 
 Setup Ingredients
 
+* OIDC
 * Keycloak
 * Python
 * Docker
